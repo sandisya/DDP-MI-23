@@ -4,12 +4,11 @@ using namespace std;
 
 int main()
 {
-    float bil1, bil2;
-    cin >> bil1 >> bil2;
-
-    cout << "Hasil dari Penjumlahan " << bil1 << " dengan " << bil2 << " adalah " << bil1 + bil2 << endl;
-    cout << "Hasil dari Pengurangan " << bil1 << " dengan " << bil2 << " adalah " << bil1 - bil2 << endl;
-    cout << "Hasil dari Perkalian " << bil1 << " dengan " << bil2 << " adalah " << bil1 * bil2 << endl;
-    cout << "Hasil dari Pembagian " << bil1 << " dengan " << bil2 << " adalah " << bil1 / bil2 << endl;
+    float value1, value2;
+    cin >> value1 >> value2;
+    cout << value1 + value2 << endl;
+    cout << value1 - value2 << endl;
+    cout << value1 * value2 << endl;
+    cout << value1 / value2;
     return 0;
 }
