@@ -6,8 +6,7 @@ int main()
     char ulangi = 'y';
     int counter = 0;
 
-    do
-    {
+    do{
         cout << "Apakah kamu sayang dia?" << endl;
         cout << "Jawab (y/t): ";
         cin >> ulangi;

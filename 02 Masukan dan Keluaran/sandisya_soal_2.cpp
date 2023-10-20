@@ -2,8 +2,7 @@
 
 using namespace std;
 
-int main()
-{
+int main(){
     string kata;
     getline(cin, kata);
     cout << kata;

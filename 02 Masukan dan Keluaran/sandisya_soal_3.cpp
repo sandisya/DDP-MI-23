@@ -2,8 +2,7 @@
 
 using namespace std;
 
-int main()
-{
+int main(){
     float value1, value2;
     cin >> value1 >> value2;
     cout << value1 + value2 << endl;

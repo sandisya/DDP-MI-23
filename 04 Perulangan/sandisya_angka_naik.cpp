@@ -5,8 +5,7 @@ int main()
 {
     int s;
     cin >> s;
-    for (int d = 1; d <= s; d++)
-    {
+    for (int d = 1; d <= s; d++){
         cout << d << "" << endl;
     }
     return 0;

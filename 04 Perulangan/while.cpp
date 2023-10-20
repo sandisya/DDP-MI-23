@@ -3,8 +3,7 @@ using namespace std;
 
 int main()
 {
-    while (true)
-    {
+    while (true){
         cout << "Lupakan dia...." << endl;
     }
     return 0;
